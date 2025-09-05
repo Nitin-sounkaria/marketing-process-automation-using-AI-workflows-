@@ -1,4 +1,4 @@
-# marketing-process-automation-using-AI-workflows-
+# Marketing-process-automation-using-AI-workflows-
 
 This project is a comprehensive B2B marketing automation system designed to streamline business operations and boost growth using AI workflows. It showcases an end-to-end solution for modern marketing challenges, focusing on efficiency and scalability.
 
